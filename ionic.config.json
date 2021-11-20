@@ -1,0 +1,7 @@
+{
+  "name": "subject-behavior",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

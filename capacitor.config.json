@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "subject-behavior",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
