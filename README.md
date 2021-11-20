@@ -1,4 +1,4 @@
-# BehaviorSubject vs Subject
+# What is the difference between a BehaviorSubject and a regular Subject
 
 This short code explainer shows you the difference between a BehaviorSubject and a regular Subject.
 
